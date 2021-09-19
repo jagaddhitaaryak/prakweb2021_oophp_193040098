@@ -1,4 +1,14 @@
 <?php
+/*
+Jagaddhita Arya Koswara
+193040098
+https://github.com/jagaddhitaaryak/prakweb2021_oophp_193040098.git
+Pertemuan 2 - 16 September 2021
+Mempelajari tentang Class dan Object
+*/
+?>
+
+<?php
 
 class Coba {
 

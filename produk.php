@@ -1,4 +1,14 @@
 <?php
+/*
+Jagaddhita Arya Koswara
+193040098
+https://github.com/jagaddhitaaryak/prakweb2021_oophp_193040098.git
+Pertemuan 2 - 16 September 2021
+Mempelajari tentang Property dan MEthod
+*/
+?>
+
+<?php
 
 Class Produk{
     public $judul = "judul",
@@ -26,3 +36,4 @@ $produk2->harga = 550000;
 echo "Komik : " . $produk1->getLabel();
 echo "<br>";
 echo "Game : "  . $produk2->getLabel();
+?>
